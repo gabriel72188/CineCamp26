@@ -5,6 +5,7 @@ import java.util.Scanner;
 //Cambio2 para el commit
 //Cambio3 para el commit
 //Cambio cualquiera para hacer commit
+//Cambio desde la rama_gabriel
 public class CineCampa26 {
     public static int precioBase;
     public static String diaSemana;
