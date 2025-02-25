@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 //Cambio para el commit
 //Cambio2 para el commit
+//Cambio3 para el commit
 public class CineCampa26 {
     public static int precioBase;
     public static String diaSemana;
